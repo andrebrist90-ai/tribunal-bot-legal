@@ -1,0 +1,103 @@
+POLÍTICA DE PRIVACIDADE — Tribunal Bot
+(Versão 1.0 — Documento Oficial)
+
+1. Introdução
+
+Esta Política de Privacidade explica como o Tribunal Bot (“Bot”) processa e armazena dados dos Utilizadores no Discord. O Bot cumpre os requisitos de transparência da plataforma Discord e restringe a recolha de dados ao mínimo necessário.
+
+2. Dados Recolhidos
+
+O Bot poderá recolher os seguintes dados apenas quando necessário para o seu funcionamento:
+
+2.1. Dados Técnicos
+
+ID do utilizador
+
+ID do servidor
+
+ID dos canais
+
+Mensagens enviadas ao Bot (comandos)
+
+Registos temporários para execução de funcionalidades judiciais ou administrativas
+
+2.2. Dados criados pelo sistema
+
+Logs de audiências simuladas (RP)
+
+Registos administrativos (caso aplicável)
+
+❗ O Bot não recolhe:
+
+Nomes reais
+
+Emails
+
+Localização
+
+Dados pessoais sensíveis
+
+Informação privada não fornecida voluntariamente em comandos
+
+3. Finalidade da Recolha
+
+Os dados são usados exclusivamente para:
+
+Processar comandos e interações
+
+Executar funcionalidades judiciais simuladas
+
+Verificar permissões
+
+Melhorar desempenho e segurança do Bot
+
+Nenhum dado é usado para fins comerciais ou de marketing.
+
+4. Armazenamento e Retenção
+
+Os dados são armazenados apenas enquanto necessários ao funcionamento do Bot.
+
+Logs temporários podem ser eliminados automaticamente após processamento.
+
+Não existe armazenamento permanente de mensagens privadas nem criação de perfis de utilizador.
+
+5. Partilha de Dados
+
+Os dados NÃO são partilhados com terceiros.
+A única exceção aplica-se quando exigido pelas regras do Discord ou por infrações graves às políticas da plataforma.
+
+6. Segurança
+
+São aplicadas medidas técnicas para evitar acessos não autorizados, incluindo:
+
+Tokens protegidos
+
+Acesso restrito ao sistema
+
+Limitação de logs sensíveis
+
+Contudo, nenhum sistema é totalmente imune, e o Utilizador reconhece esse risco.
+
+7. Direitos do Utilizador
+
+O utilizador pode solicitar:
+
+Informação sobre dados armazenados
+
+Remoção de dados (quando tecnicamente possível)
+
+Esclarecimentos sobre esta política
+
+Basta contactar o desenvolvedor utilizando os meios oficiais.
+
+8. Alterações à Política de Privacidade
+
+Esta política pode ser atualizada. A continuação do uso do Bot após alterações implica aceitação das mesmas.
+
+9. Contacto
+
+Para questões sobre privacidade ou dados:
+
+Contacte via servidor de suporte
+
+Utilize os contactos indicados no repositório público do projeto
