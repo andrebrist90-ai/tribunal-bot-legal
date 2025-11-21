@@ -1,0 +1,56 @@
+TERMO DE SERVIÇO — Tribunal Bot
+(Versão 1.0 — Documento Oficial)
+
+1. Introdução
+
+O presente Termo de Serviço (“Termos”) regula o uso do Tribunal Bot (“Bot”), disponibilizado gratuitamente no Discord. Ao adicionar ou utilizar o Bot, o utilizador (“Utilizador”) concorda com estes Termos e com as normas definidas pela plataforma Discord.
+
+2. Objetivo do Bot
+
+O Tribunal Bot tem como finalidade auxiliar na gestão de sistemas judiciais simulados, Roleplay, organização de tribunais virtuais e funções administrativas associadas a servidores Discord.
+
+3. Aceitação dos Termos
+
+A utilização do Bot implica a aceitação integral destes Termos. Caso o Utilizador não concorde com algum ponto, deverá remover o Bot do seu servidor.
+
+4. Condições de Utilização
+
+O Utilizador compromete-se a:
+
+Não usar o Bot para atividades ilegais ou contrárias às políticas do Discord.
+
+Não interferir com o funcionamento do Bot através de engenharia reversa, automatização abusiva ou spam.
+
+Garantir que o Bot é utilizado apenas em servidores onde o Utilizador tem permissão para o adicionar.
+
+5. Funcionamento e Disponibilidade
+
+O Tribunal Bot é fornecido “tal como está”. Não é garantida disponibilidade contínua, ausência de falhas ou funcionamento ininterrupto. O desenvolvedor reserva o direito de suspender, atualizar ou descontinuar funcionalidades a qualquer momento.
+
+6. Responsabilidade
+
+O desenvolvedor não assume responsabilidade por:
+
+Perda de dados causada pela utilização do Bot.
+
+Abusos cometidos por Utilizadores ou administradores de servidores.
+
+Decisões tomadas pelos administradores com base em informações fornecidas pelo Bot.
+
+O Utilizador é responsável pela segurança e gestão do seu próprio servidor.
+
+7. Recolha e Tratamento de Dados
+
+A recolha de dados é explicada na Política de Privacidade, que integra estes Termos e deve ser lida em conjunto com os mesmos.
+
+8. Propriedade Intelectual
+
+Todos os códigos, sistemas, funcionalidades e conteúdos associados ao Bot são propriedade do desenvolvedor, salvo quando especificado em contrário.
+
+9. Alterações aos Termos
+
+Estes Termos podem ser atualizados periodicamente. A continuação do uso do Bot após alterações implica aceitação tácita das mesmas.
+
+10. Contacto
+
+Para questões relacionadas com este documento, contactar através do servidor oficial ou dos meios disponibilizados no repositório público.
